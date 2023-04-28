@@ -1,0 +1,16 @@
+{
+    "name": "lens-scraper",
+    "version": "1.0.0",
+    "description": "A script that get metadata from your photos and put it in a csv file",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "csv-writer": "^1.6.0",
+      "exif-parser": "^0.1.12"
+    }
+  }
+  
